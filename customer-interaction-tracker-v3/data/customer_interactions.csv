@@ -1,0 +1,48 @@
+customer_name,date,contact_method,notes,follow_up_date,status,agent
+Chloe Rodriguez,2022-11-21,phone,Reported minor issue; steps to reproduce logged.,2022-12-14,On-Hold,Jordan
+Noah Jackson,2020-06-28,chat,Requested account update; verified identity.,2020-07-25,Pending,Taylor
+Abigail Thomas,2022-11-12,chat,Confirmed appointment time via chat.,2022-11-19,On-Hold,Taylor
+Isabella Davis,2025-06-17,email,Followed up on previous support ticket.,2025-07-16,On-Hold,Casey
+Layla Scott,2022-10-31,chat,Requested contract terms summary.,2022-11-08,On-Hold,Morgan
+Mason Hill,2022-10-23,phone,Requested account update; verified identity.,2022-11-11,Completed,Morgan
+Daniel Brown,2023-12-03,chat,Requested invoice copy and clarification on charges.,2023-12-08,On-Hold,Casey
+Noah Miller,2020-05-22,chat,Requested account update; verified identity.,2020-05-27,On-Hold,Jordan
+Harper Thomas,2020-07-29,email,Requested contract terms summary.,2020-08-11,On-Hold,Casey
+Aiden Flores,2022-09-06,phone,Requested contract terms summary.,2022-10-04,Pending,Stacey
+Noah Torres,2022-11-08,phone,Requested account update; verified identity.,2022-11-19,Pending,Taylor
+Amelia Perez-Ruiz,2021-08-20,email,Requested contract terms summary.,2021-08-21,On-Hold,Taylor
+Zoey Mitchell,2021-11-12,phone,Requested contract terms summary.,2021-12-12,Pending,Taylor
+Samuel Ramirez,2022-02-03,chat,Requested contract terms summary.,2022-02-15,Pending,Morgan
+Evelyn Robinson,2019-11-14,phone,Requested invoice copy and clarification on charges.,2019-11-25,Completed,Stacey
+Levi Jackson,2023-12-07,email,Clarified shipping address and delivery window.,2023-12-15,Pending,Jordan
+Ava Lopez,2020-09-29,chat,Requested contract terms summary.,2020-10-23,Completed,Stacey
+Lily Lewis,2021-04-10,chat,Followed up on previous support ticket.,2021-05-02,Completed,Morgan
+Benjamin Jackson,2022-11-01,phone,Confirmed appointment time via phone.,2022-11-29,On-Hold,Casey
+Mia Anderson,2025-11-28,phone,Requested account update; verified identity.,2025-12-21,Pending,Taylor
+Benjamin Davis,2024-01-19,email,Requested invoice copy and clarification on charges.,2024-02-17,On-Hold,Casey
+Mason Sanchez,2022-08-23,chat,Clarified shipping address and delivery window.,2022-08-26,Completed,Stacey
+Ethan White,2022-06-11,phone,Asked about pricing and plan options.,2022-06-19,Pending,Stacey
+Elijah Flores,2022-06-06,chat,Requested invoice copy and clarification on charges.,2022-07-05,Pending,Taylor
+Emily Brown,2025-08-17,chat,Confirmed appointment time via chat.,2025-08-26,On-Hold,Casey
+Nora Walker,2025-11-28,chat,Provided feedback on service experience.,2025-12-22,On-Hold,Morgan
+Samuel Rodriguez,2022-08-03,email,Requested invoice copy and clarification on charges.,2022-08-29,Completed,Jordan
+Henry Miller,2020-12-13,phone,Requested account update; verified identity.,2020-12-27,Completed,Casey
+Matthew Martin,2025-02-05,phone,Asked about pricing and plan options.,2025-02-07,On-Hold,Stacey
+Chloe Green,2024-05-18,phone,Confirmed appointment time via phone.,2024-05-29,Pending,Jordan
+Logan Nguyen,2021-12-30,phone,Followed up on previous support ticket.,2022-01-14,Pending,Casey
+Olivia Brown,2022-12-26,email,Requested contract terms summary.,2023-01-03,Pending,Casey
+Penelope Thomas,2020-12-17,chat,Requested invoice copy and clarification on charges.,2021-01-07,On-Hold,Stacey
+Avery Miller,2022-07-07,chat,Confirmed appointment time via chat.,2022-07-21,Completed,Casey
+Evelyn Davis,2024-05-11,chat,Requested account update; verified identity.,2024-05-17,Completed,Stacey
+Henry Jackson,2022-11-02,email,Provided feedback on service experience.,2022-11-12,Completed,Morgan
+Jackson Adams,2021-08-07,chat,Clarified shipping address and delivery window.,2021-08-17,Pending,Stacey
+Logan Lopez,2025-12-10,chat,Asked about pricing and plan options.,2026-01-03,Completed,Stacey
+Logan White,2025-03-17,phone,Asked about pricing and plan options.,2025-04-16,On-Hold,Jordan
+Harper Nelson,2025-07-23,chat,Clarified shipping address and delivery window.,2025-08-20,Pending,Stacey
+Elizabeth Mitchell,2020-08-16,phone,Requested invoice copy and clarification on charges.,2020-09-13,Pending,Casey
+Layla Baker,2022-08-16,phone,Requested invoice copy and clarification on charges.,2022-09-05,Pending,Morgan
+Olivia Flores,2024-07-25,phone,Reported minor issue; steps to reproduce logged.,2024-08-13,On-Hold,Morgan
+Chloe Lopez,2022-10-15,chat,Confirmed appointment time via chat.,2022-11-06,On-Hold,Taylor
+Samuel Kim,2022-11-03,email,Provided feedback on service experience.,2022-11-08,On-Hold,Taylor
+Abigail Lopez,2023-05-30,chat,Clarified shipping address and delivery window.,2023-05-31,Completed,Morgan
+Jackson Sanchez,2020-12-25,chat,Requested product demo; shared resources.,2021-01-12,Pending,Morgan
