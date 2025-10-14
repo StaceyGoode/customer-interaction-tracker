@@ -31,3 +31,45 @@ Process Automation: Streamlined repetitive documentation tasks through scripting
 Professional Communication: Produced clean, readable reports suitable for team review or management dashboards.
 
 Version Control & Collaboration: Managed code and documentation through GitHub for transparency and version tracking.
+
+How to Use This Project
+
+Download or clone this repository
+
+Click the green Code button near the top of this page and select Download ZIP.
+
+Unzip the folder to your computer.
+
+(Alternatively, if you use Git, you can clone it with:)
+
+git clone https://github.com/StaceyGoode/customer-interaction-tracker.git
+
+
+Install the required library
+Make sure Python 3.9+ is installed, then open Terminal and run:
+
+pip install pandas
+
+
+Run the tracker
+Navigate into the project folder in Terminal and run:
+
+python3 scripts/summarize_interactions.py
+
+
+View your results
+After running, open the reports/ folder to find the generated files:
+
+customer_summary.csv — per-customer overview
+
+method_breakdown.csv — breakdown by contact method
+
+status_breakdown.csv — summary of pending/completed interactions
+
+followup_schedule.csv — list of upcoming follow-ups
+
+quality_checks.json — data validation report
+
+Customize or experiment
+Open data/customer_interactions.csv in Excel, Numbers, or Google Sheets to modify or add new customer interactions.
+Each time you re-run the script, updated reports will be generated automatically.
