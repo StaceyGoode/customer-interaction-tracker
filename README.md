@@ -13,6 +13,7 @@ Generates structured reports for summaries and follow-ups
 
 I created this to simulate how real-world teams maintain detailed, reliable communication records.
 It reflects strong attention to detail, data organization, and documentation discipline — the same skills I use to manage information efficiently and ensure nothing falls through the cracks.
+
 Skills Demonstrated
 
 Organized Record Management: Designed and maintained structured logs of customer interactions with consistent formatting and traceability.
