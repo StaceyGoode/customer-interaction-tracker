@@ -17,6 +17,9 @@ The tracker demonstrates how a remote operations or billing-support environment 
 
 For a quick structural view, open: data/customer_interactions.csv
 
+![Sample Interaction Log](screenshot_interaction_log.png)
+
+
 The Customer Interaction Tracker is a portfolio project that demonstrates my ability to maintain organized, accurate records of customer interactions in a CRM-style system.
 It showcases meticulous documentation practices, automated data validation, and the generation of clear, actionable reports — skills essential for customer success, operations, or AI data-support roles.
 
