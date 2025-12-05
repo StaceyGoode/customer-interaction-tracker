@@ -1,3 +1,22 @@
+# Customer Interaction Tracker (Business & Operations Overview)
+
+A structured workflow system for documenting customer communication, billing clarification, account follow-ups, and internal notes in a CRM-style format. This tracker reflects real-world behaviors of customer success and billing teams: accurate documentation, traceable follow-up scheduling, escalation visibility, and clear internal communication.
+
+This is highly relevant to roles in billing operations, SaaS support, payment reconciliation, dispute handling, customer success, and operational administration because these teams depend on:
+
+- Documentation accuracy and audit-readiness  
+- Organized internal notes for account history  
+- SLA prioritization and escalation accountability  
+- Time-sensitive follow-ups  
+- Professional clarity and empathy in communication  
+- Cross-team visibility and process consistency  
+
+The tracker demonstrates how a remote operations or billing-support environment can prevent lost information, streamline payment questions, and improve customer satisfaction simply through disciplined documentation.
+
+---
+
+For a quick structural view, open: data/customer_interactions.csv
+
 The Customer Interaction Tracker is a portfolio project that demonstrates my ability to maintain organized, accurate records of customer interactions in a CRM-style system.
 It showcases meticulous documentation practices, automated data validation, and the generation of clear, actionable reports — skills essential for customer success, operations, or AI data-support roles.
 
