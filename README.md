@@ -19,6 +19,9 @@ For a quick structural view, open: data/customer_interactions.csv
 
 ![Sample Interaction Log](screenshot_interaction_log.png)
 
+*This structured log simulates a CRM-style workflow for tracking customer interactions, billing clarifications, follow-up scheduling, escalation handling, and internal communication. It demonstrates operational organization, accuracy, and clear documentation—key skills for SaaS support, billing operations, admin coordination, and customer success roles.*
+
+
 
 The Customer Interaction Tracker is a portfolio project that demonstrates my ability to maintain organized, accurate records of customer interactions in a CRM-style system.
 It showcases meticulous documentation practices, automated data validation, and the generation of clear, actionable reports — skills essential for customer success, operations, or AI data-support roles.
